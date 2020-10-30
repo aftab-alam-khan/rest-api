@@ -1,0 +1,18 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "This is first api service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "service"
+  ],
+  "author": "Aftab",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
